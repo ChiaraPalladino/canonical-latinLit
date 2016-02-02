@@ -54,7 +54,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 	</refsDecl>
 </encodingDesc><profileDesc>
 <langUsage>
-<language ident="la">Latin</language>
+<language ident="lat">Latin</language>
 </langUsage>
 </profileDesc>
 	<revisionDesc>		
@@ -80,7 +80,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <text>
 <body>
-<div type="edition" n="urn:cts:latinLit:phi0119:phi010.perseus-lat2" xml:lang="lat">
+<div type="edition" n="urn:cts:latinLit:phi0119.phi010.perseus-lat2" xml:lang="lat">
 <div type="textpart" subtype="act" n="prol.">
 <head>PROLOGVS</head>
 <l n="1">Salutem primum iam a principio propitiam</l>
@@ -158,8 +158,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l n="73">quando alia agetur, aliud fiet oppidum;</l>
 <l n="74">sicut familiae quoque solent mutarier:</l>
 <lb ed="actscene" n="75"/><l n="75">modo †ni caditat leno, modo adulescens, modo senex,</l>
-<l n="76">pauper, mendicus, rex, parasitus, hariolus</l>
-<l n="76a"><gap reason="lost"/> </l>
+<l n="76">pauper, mendicus, rex, parasitus, hariolus<gap reason="lost"/></l>
 </div>
 
 <div type="textpart" subtype="act" n="1">
@@ -214,9 +213,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="10"/><l n="119">nímium ego te habui délicatam; núnc adeo ut factúrus dicam.</l>
 <l n="120">quando égo tibi ancillás, penum,</l>
 <l n="121">lanam, aurum, vestem, purpuram</l>
-<l n="121">bene praebeo nec quicquam eges,</l>
+<l n="121a">bene praebeo nec quicquam eges,</l>
 <l n="122">malo cavebis si sapis,</l>
-<lb ed="actscene" n="15"/><l n="122">virum observare desines.</l>
+<lb ed="actscene" n="15"/><l n="122a">virum observare desines.</l>
 <l n="123">átque adeo, ne me nequiquam serves, ob eam industriam</l>
 <l n="124">hodie ducam scortum ad cenam atque aliquo condicam foras.</l></sp>
 
@@ -241,26 +240,26 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="136">Perii, in insidias deveni.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="136.1">Immo in praesidium, ne time.</l></sp>
+<l part="M" n="136a">Immo in praesidium, ne time.</l></sp>
 
 <sp><speaker>M.</speaker>
 <lb ed="actscene" n="30"/><l part="I" n="137">Quis homo est?</l></sp>
 
 <sp><speaker>P.</speaker>
-<l part="M" n="137.1">Ego sum.</l></sp>
+<l part="M" n="137a">Ego sum.</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="137.2">O mea Commoditas, o mea Opportunitas,</l>
+<l part="M" n="137b">O mea Commoditas, o mea Opportunitas,</l>
 <l part="I" n="138">salve.</l></sp>
 
 <sp><speaker>P.</speaker>
-<l part="M" n="138.1">Salve.</l></sp>
+<l part="M" n="138a">Salve.</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="138.2">Quid agis?</l></sp>
+<l part="M" n="138b">Quid agis?</l></sp>
 
 <sp><speaker>P.</speaker>
-<l part="M" n="138.3">Teneo dextera genium meum.</l></sp>
+<l part="M" n="138c">Teneo dextera genium meum.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="139">Non potuisti magis per tempus mi advenire quam advenis.</l></sp>
@@ -272,7 +271,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="141">Vin tu facinus luculentum inspicere?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="141.1">Quis id coxit coquos?</l>
+<l part="M" n="141a">Quis id coxit coquos?</l>
 <lb ed="actscene" n="35"/><l n="142">iam sciam, si quid titubatumst, ubi reliquias videro.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -283,35 +282,35 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="145">Saepe. sed quid istaé picturae ad me attinent?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="145.1">Age me aspice.</l>
+<l part="M" n="145a">Age me aspice.</l>
 <l part="I" n="146">ecquid adsimulo similiter?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="146.1">Quis istest ornatus tuos?</l></sp>
+<l part="M" n="146a">Quis istest ornatus tuos?</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="40"/><l part="I" n="147">Dic hominem lepidissimum esse me.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="147.1">Vbi essuri sumus?</l></sp>
+<l part="M" n="147a">Vbi essuri sumus?</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="148">Dic modo hoc quod ego te iubeo.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="148.1">Dico: homo lepidissime.</l></sp>
+<l part="M" n="148a">Dico: homo lepidissime.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="149">Ecquid audes de tuo istuc addere?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="149.1">Atque hilarissime.</l></sp>
+<l part="M" n="149a">Atque hilarissime.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="150">Perge <add>porro</add>.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="150.1">Non pergo hercle, nisi scio qua gratia.</l>
+<l part="M" n="150a">Non pergo hercle, nisi scio qua gratia.</l>
 <l n="151">litigium tibi est cum uxore, eo mi ábs te caveo cautius.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -319,26 +318,26 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <sp><speaker>Pen.</speaker>
 <l n="153">Age sane igitur, quando aequom oras, quam mox incendo rogum?</l>
-<l n="154-155">dies quidem iam ad umbilicum est dimidiatus mortuos.</l></sp>
+<l n="154">dies quidem iam ad umbilicum est dimidiatus mortuos.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="I" n="156">Te morare, mihi quom obloquere.</l></sp>
+<l part="I" n="155">Te morare, mihi quom obloquere.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="156.1">Oculum ecfodito per solum</l>
+<l part="M" n="156">Oculum ecfodito per solum</l>
 <l n="157">mihi, Menaechme, si ullum verbum faxo nisi quod iusseris.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="50"/><l part="I" n="158">Concede huc a foribus.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="158.1">Fiat.</l></sp>
+<l part="M" n="158a">Fiat.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="158.2">Etiam concede huc.</l></sp>
+<l part="M" n="158b">Etiam concede huc.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="158.3">Licet.</l></sp>
+<l part="M" n="158c">Licet.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="159">Etiam nunc concede audacter ab leonino cavo.</l></sp>
@@ -350,13 +349,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="161">Quidum?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="161.1">Ne te uxor sequatur, respectas identidem.</l></sp>
+<l part="M" n="161a">Ne te uxor sequatur, respectas identidem.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="162">Sed quid ais?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="162.1">Egone? id enim quod tu vis, id aio atque id nego.</l></sp>
+<l part="M" n="162a">Egone? id enim quod tu vis, id aio atque id nego.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="55"/><l n="163">Ecquid tu de odore possis, si quid forte olfeceris,</l>
@@ -376,43 +375,44 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="169">Olfacta igitur hinc, Penicule. lepide ut fastidis.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="169.1">Decet.</l></sp>
+<l part="M" n="169a">Decet.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="170">Quid igitur? quid olet? responde.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="170.1">Furtum, scortum, prandium.</l>
+<l part="M" n="170a">Furtum, scortum, prandium.</l>
 <l n="171">tibi fuant</l>
 <l n="172">elocutus, nam</l>
 <lb ed="actscene" n="65"/><l n="173">nunc ad amicam deferetur hanc meretricem Erotium.</l>
 <l part="I" n="174">mihi, tibi atque illi iubebo iam adparari prandium.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="174.1">Eu.</l></sp>
+<l part="M" n="174a">Eu.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="175">Inde usque ad diurnam stellam crastinam potabimus.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="175.1">Eu,</l>
+<l part="M" n="175a">Eu,</l>
 <l part="I" n="176">expedite <choice><expan><abbr>fabulatu's</abbr><ex>fabulatus es</ex></expan></choice>. iam fores ferio?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="176.1">Feri.</l>
+<l part="M" n="176a">Feri.</l>
 <l part="I" n="177">vel mane etiam.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="177.1">Mille passum <choice><expan><abbr>commoratu's</abbr><ex>commoratus es</ex></expan></choice> cantharum.</l></sp>
+<l part="M" n="177a">Mille passum <choice><expan><abbr>commoratu's</abbr><ex>commoratus es</ex></expan></choice> cantharum.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="70"/><l part="I" n="178">Placide pulta.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="178.1">Metuis, credo, ne fores Samiae sient.</l></sp>
+<l part="M" n="178a">Metuis, credo, ne fores Samiae sient.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l n="179-180">Mane, mane obsecro hercle: eapse eccam exit. oh, solem vides</l>
+<l n="179">Mane, mane obsecro hercle: eapse eccam exit.</l>
+<l n="180">oh, solem vides</l>
 <l n="181">satin ut occaecatust prae huius corporis candoribus?</l></sp>
 </div>
 <div type="textpart" subtype="scene" n="3">
@@ -421,22 +421,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="182">Anime mi, Menaechme, salve.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="182.1">Quid ego?</l></sp>
+<l part="M" n="182a">Quid ego?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="182.2">Extra numerum es mihi.</l></sp>
+<l part="M" n="182b">Extra numerum es mihi.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l n="183">Idem istuc aliis adscriptivis fieri ad legionem solet.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l n="184-185">Ego istic mihi hodie adparari iussi apud te proelium.</l></sp>
+<l n="184">Ego istic mihi hodie adparari iussi apud te proelium.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="I" n="186">Hodie id fiet.</l></sp>
+<l part="I" n="185">Hodie id fiet.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="186.1">In eo uterque proelio potabimus;</l>
+<l part="M" n="186">In eo uterque proelio potabimus;</l>
 <lb ed="actscene" n="5"/><l n="187">uter ibi melior bellator erit inventus cantharo,</l>
 <l n="188">† tuest legio adiudicato, cum utro hanc noctem sies.</l>
 <l n="189">ut ego uxorem, mea voluptas, ubi te aspicio, odi male.</l></sp>
@@ -446,14 +446,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="191">quid hoc est?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="191.1">Induviae tuae atque uxoris exuviae, rosa.</l></sp>
+<l part="M" n="191a">Induviae tuae atque uxoris exuviae, rosa.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <lb ed="actscene" n="10"/><l n="192">Superas facile, ut superior sis mihi quam quisquam qui impetrant.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l n="193">Meretrix tantisper blanditur, dum illud quod rapiat videt;</l>
-<l n="194-195">nam si amabas, iám oportebat nasum abreptum mordicus.</l></sp>
+<l n="194">nam si amabas, iám oportebat</l>
+<l n="195">nasum abreptum mordicus.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="196">Sustine hoc, Penicule: exuvias facere quas vovi volo.</l></sp>
@@ -465,11 +466,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="15"/><l part="I" n="198">Ego saltabo? sanus hercle non es.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="198.1">Egone an tu magis?</l>
+<l part="M" n="198a">Egone an tu magis?</l>
 <l part="I" n="199">si non saltas, exue igitur.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="199.1">Nimio ego hanc periculo</l>
+<l part="M" n="199a">Nimio ego hanc periculo</l>
 <l n="200">surrupui hodie. meo quidem animo ab Hippolyta subcingulum</l>
 <l n="201">Hercules haud aeque magno umquam abstulit periculo.</l>
 <l n="202">cape tibi hanc, quando una vivis meis morigera moribus.</l></sp>
@@ -490,7 +491,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="207">Scin quid volo ego te accurare?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="207.1">Scio, curabo quae voles.</l></sp>
+<l part="M" n="207a">Scio, curabo quae voles.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="25"/><l n="208">Iube igitur tribus nóbis apud te prandium accurarier</l>
@@ -501,21 +502,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="30"/><l part="I" n="213">atque actutum.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="213.1">Licet ecastor.</l></sp>
+<l part="M" n="213a">Licet ecastor.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="213.2">Nos prodimus ad forum.</l>
+<l part="M" n="213b">Nos prodimus ad forum.</l>
 <l n="214">iam hic nos erimus: dum coquetur, interim potabimus.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="215">Quando vis veni, parata res erit.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="215.1">Propera modo.</l>
+<l part="M" n="215a">Propera modo.</l>
 <l part="I" n="216">sequere tu.—</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="216.1">Ego hercle vero te et servabo et te sequar,</l>
+<l part="M" n="216a">Ego hercle vero te et servabo et te sequar,</l>
 <l n="217">neque hodie ut te perdam, meream deorum divitias mihi.—</l></sp>
 
 <sp><speaker>Er.</speaker>
@@ -528,31 +529,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="220">Habeo.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="220.1">Abi atque obsonium adfer; tribus vide quod sit satis:</l>
+<l part="M" n="220a">Abi atque obsonium adfer; tribus vide quod sit satis:</l>
 <l part="I" n="221">neque defiat neque supersit.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="221.1">Cuius modi hí homines erunt?</l></sp>
+<l part="M" n="221a">Cuius modi hí homines erunt?</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="222">Ego et Menaechmus et parasitus eius.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="222.1">Iam isti sunt decem;</l>
+<l part="M" n="222a">Iam isti sunt decem;</l>
 <lb ed="actscene" n="5"/><l n="223">nam parasitus octo hominum munus facile fungitur.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="224">Elocuta sum convivas, ceterum cura.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="224.1">Licet.</l>
+<l part="M" n="224a">Licet.</l>
 <l part="I" n="225">cocta sunt, iube ire accubitum.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="225.1">Redi cito.</l></sp>
+<l part="M" n="225a">Redi cito.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="225.2">Iam ego hic ero.—</l></sp>
+<l part="M" n="225b">Iam ego hic ero.—</l></sp>
 </div></div>
 
 <div type="textpart" subtype="act" n="2">
@@ -564,7 +565,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="228">terram conspiciunt.</l></sp>
 
 <sp><speaker>Messenio</speaker>
-<l part="M" n="228.1">Maior, non dicam dolo,</l>
+<l part="M" n="228a">Maior, non dicam dolo,</l>
 <l n="229"><del>quam</del> si adveniens terram videas quae fuerit tua.</l>
 <lb ed="actscene" n="5"/><l n="230">sed quaeso, quam ob rem nunc Epidamnum venimus?</l>
 <l n="231">an quasi mare omnis circumimus insulas?</l></sp>
@@ -599,7 +600,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="25"/><l part="I" n="250">molestus ne sis, non tuo hoc fiet modo.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="250.1">Em</l>
+<l part="M" n="250a">Em</l>
 <l n="251">illoc enim vérbo esse me servom scio.</l>
 <l n="252">non potuit paucis plura plane proloqui.</l>
 <l n="253">verum tamen néqueo contineri quin loquar.</l>
@@ -622,13 +623,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="266">Quid eo vis?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="266.1">Iam aps te metuo de verbis tuis.</l></sp>
+<l part="M" n="266a">Iam aps te metuo de verbis tuis.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l part="I" n="267">Quid metuis?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="267.1">Ne mihi damnum in Epidamno duis.</l>
+<l part="M" n="267a">Ne mihi damnum in Epidamno duis.</l>
 <l n="268">tu magnus amator mulierum es, Messenio,</l>
 <l n="269">ego autem homo iracundus, animi perditi;</l>
 <lb ed="actscene" n="45"/><l n="270">id utrumque, argentum quando habebo, cavero,</l>
@@ -648,7 +649,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="278">Menaechme, salve.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="278.1">Di te amabunt quisquis <add>es</add>.</l></sp>
+<l part="M" n="278a">Di te amabunt quisquis <add>es</add>.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
 <l n="279">Quisquis <gap reason="lost"/> <add>quis</add> ego sim?</l></sp>
@@ -657,13 +658,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="280">Non hercle vero.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="280.1">Vbi convivae ceteri?</l></sp>
+<l part="M" n="280a">Vbi convivae ceteri?</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="281">Quos tu convivas quaeris?</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="281.1">Parasitum tuom.</l></sp>
+<l part="M" n="281a">Parasitum tuom.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="10"/><l n="282">Meum parasitum? certe hic insanust homo.</l></sp>
@@ -683,15 +684,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="288">nunc opsonatu redeo.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="288.1">Responde mihi,</l>
+<l part="M" n="288a">Responde mihi,</l>
 <l n="289">adulescens: quibus hic pretiis porci veneunt</l>
 <l part="I" n="290">sacres sinceri?</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="290.1">Nummis.</l></sp>
+<l part="M" n="290a">Nummis.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="290.2">Nummum a me accipe:</l>
+<l part="M" n="290b">Nummum a me accipe:</l>
 <l n="291">iube té piari de mea pecunia.</l>
 <lb ed="actscene" n="20"/><l n="292">nam équidem insanum esse te certo scio,</l>
 <l n="293">qui mihi <choice><expan><abbr>molestu's</abbr><ex>molestus es</ex></expan></choice> homini ignoto, quisquis es.</l></sp>
@@ -711,7 +712,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="299">sed ubi novisti me?</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="299.1">Vbi ego te noverim,</l>
+<l part="M" n="299a">Vbi ego te noverim,</l>
 <l n="300">qui amicam habes eram meam hanc Erotium?</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -722,7 +723,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="303">cyathisso apud nos, quando potas?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="303.1">Ei mihi,</l>
+<l part="M" n="303a">Ei mihi,</l>
 <l n="304">quom nihil est qui illi homini diminuam caput.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -730,31 +731,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="306">Epidamnum numquam vidi neque veni?</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="306.1">Negas?</l></sp>
+<l part="M" n="306a">Negas?</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="35"/><l part="I" n="307">Nego hercle vero.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="307.1">Non tu in illisce aedibus</l>
+<l part="M" n="307a">Non tu in illisce aedibus</l>
 <l part="I" n="308">† habitas?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="308.1">Di illos homines, qui illic habitant, perduint.</l></sp>
+<l part="M" n="308a">Di illos homines, qui illic habitant, perduint.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
 <l n="309">Insanit hic quidem, qui ipse male dicit sibi.</l>
 <l part="I" n="310">audin, Menaechme?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="310.1">Quid vis?</l></sp>
+<l part="M" n="310a">Quid vis?</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="310.2">Si me consulas,</l>
+<l part="M" n="310b">Si me consulas,</l>
 <l n="311">nummum illum quem mihi dudum <choice><expan><abbr>pollicitu's</abbr><ex>pollicitus es</ex></expan></choice> dare—</l>
 <lb ed="actscene" n="40"/><l n="312">nam tu quidem hercle certo non <choice><expan><abbr>sanu's</abbr><ex>sanus es</ex></expan></choice> satis,</l>
 <l n="313">Menaechme, qui nunc ipsus male dicas tibi—</l>
-<l n="314-315">iubeas, si sapias, porculum adferri tibi.</l></sp>
+<l n="314">iubeas, si sapias, </l>
+<l n="315">porculum adferri tibi.</l></sp>
 
 <sp><speaker>Mes.</speaker>
 <l n="316">Eu hercle hominem multum, et odiosum mihi.</l></sp>
@@ -765,23 +767,23 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="319">quid ais tu?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="319.1">Quid vis, inquam.</l></sp>
+<l part="M" n="319a">Quid vis, inquam.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="319.2">Satin hoc quod vides</l>
+<l part="M" n="319b">Satin hoc quod vides</l>
 <l n="320">tribus vóbis opsonatumst, an opsono amplius,</l>
 <l part="I" n="321">tibi et parasito et mulieri?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="321.1">Quas <del>tu</del> mulieres,</l>
+<l part="M" n="321a">Quas <del>tu</del> mulieres,</l>
 <l part="I" n="322">quos tu parasitos loquere?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="322.1">Quod te urget scelus,</l>
+<l part="M" n="322a">Quod te urget scelus,</l>
 <lb ed="actscene" n="50"/><l part="I" n="323">qui huic sis molestus?</l></sp>
 
 <sp><speaker>Cyl.</speaker>
-<l part="M" n="323.1">Quid tibi mecum est rei?</l>
+<l part="M" n="323a">Quid tibi mecum est rei?</l>
 <l n="324">ego te non novi: cum hoc quem novi fabulor.</l></sp>
 
 <sp><speaker>Mess.</speaker>
@@ -793,7 +795,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="55"/><l part="I" n="328">numquid vis?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="328.1">Vt eas maximam malam crucem.</l></sp>
+<l part="M" n="328a">Vt eas maximam malam crucem.</l></sp>
 
 <sp><speaker>Cyl.</speaker>
 <l n="329">Ire hercle meliust te interim atque accumbere,</l>
@@ -806,7 +808,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="334">tua verba experior esse.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="334.1">Observato modo:</l>
+<l part="M" n="334a">Observato modo:</l>
 <l n="335">nam istic meretricem credo habitare mulierem,</l>
 <l n="336">ut quidem ille insanus dixit, qui hinc abiit modo.</l></sp>
 
@@ -827,7 +829,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="346">Mones quidem hercle recte.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="346.1">Tum demum sciam</l>
+<l part="M" n="346a">Tum demum sciam</l>
 <l n="347">recte monuisse, si tu recte caveris.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -835,7 +837,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="349">videamus qui hinc egreditur.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="349.1">Hoc ponam interim.</l>
+<l part="M" n="349a">Hoc ponam interim.</l>
 <l n="350">asservatote haec sultis, navales pedes.</l></sp>
 </div>
 <div type="textpart" subtype="scene" n="3">
@@ -844,7 +846,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l n="351">Sine fóres sic, abi, nolo óperiri.</l>
 <l n="352">intús para, curá, vide, quod opúst fiat:</l>
 <l n="353">sterníte lectos, incéndite odores; múnditia</l>
-<l n="354-355">inlécebra animost amántium.</l>
+<l n="354">inlécebra animost amántium.</l>
 <lb ed="actscene" n="5"/><l n="356">amánti amoenitás malost, nobís lucrost.</l>
 <l n="357">sed ubi ílle est, quem coquos ánte aedis esse áit? atque eccum video,</l>
 <l n="358">qui mi ést usui et plurímum prodest.</l>
@@ -863,14 +865,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="369">Quícum haec mulier loquitur?</l></sp>
 
 <sp><speaker>E.</speaker>
-<l part="M" n="369.1">Equidem tecum.</l></sp>
+<l part="M" n="369a">Equidem tecum.</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="369.2">Quid mecum tibi</l>
+<l part="M" n="369b">Quid mecum tibi</l>
 <l part="I" n="370">fuit umquam aut nunc est negoti?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="370.1">Quia pol te unum ex omnibus</l>
+<l part="M" n="370a">Quia pol te unum ex omnibus</l>
 <lb ed="actscene" n="20"/><l n="371">Venus me voluit magnificare, neque id haud immerito tuo.</l>
 <l n="372">nam ecastor solus benefactis tuis me florentem facis.</l></sp>
 
@@ -885,21 +887,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="378">sed sine me dum hanc compellare. heus mulier, tibi dico.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="378.1">Quid est?</l></sp>
+<l part="M" n="378a">Quid est?</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l part="I" n="379">Vbi tu húnc hominem novisti?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="379.1">Ibidem ubi hic me iam diu,</l>
+<l part="M" n="379a">Ibidem ubi hic me iam diu,</l>
 <l part="I" n="380">in Epidamno.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="380.1">In Epidamno? qui huc in hanc urbem pedem,</l>
+<l part="M" n="380a">In Epidamno? qui huc in hanc urbem pedem,</l>
 <lb ed="actscene" n="30"/><l part="I" n="381">nisi hodie, numquam intro tetulit?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="381.1">Heia, delicias facis.</l>
+<l part="M" n="381a">Heia, delicias facis.</l>
 <l n="382">mi Menaechme, quin, amabo, is intro? hic tibi erit rectius.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -907,18 +909,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="384">nimis miror, quid hoc sít negoti.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="384.1">Oboluit marsuppium</l>
+<l part="M" n="384a">Oboluit marsuppium</l>
 <l part="I" n="385">huic istuc quod habes.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="385.1">Atque edepol tu me monuisti probe.</l>
+<l part="M" n="385a">Atque edepol tu me monuisti probe.</l>
 <lb ed="actscene" n="35"/><l n="386">accipe dum hoc. iam scibo, utrum haec me mage amet an marsuppium.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="387">Eamus intro, ut prandeamus.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="387.1">Bene vocas: tam gratiast.</l></sp>
+<l part="M" n="387a">Bene vocas: tam gratiast.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l n="388">Cur igitur me tibi iussisti coquere dudum prandium?</l></sp>
@@ -927,7 +929,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="389">Egon te iussi coquere?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="389.1">Certo, tibi et parasito tuo.</l></sp>
+<l part="M" n="389a">Certo, tibi et parasito tuo.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="390">Cui, malum, parasito? certo haec mulier non sanast satis.</l></sp>
@@ -936,14 +938,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="40"/><l part="I" n="391">Peniculo.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="391.1">Quis iste ést Peniculus? qui extergentur baxeae?</l></sp>
+<l part="M" n="391a">Quis iste ést Peniculus? qui extergentur baxeae?</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l n="392">Scilicet qui dudum tecum venit, quom pallam mihi</l>
 <l part="I" n="393">detulisti, quám ab uxore tua surrupuisti.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="393.1">Quid est?</l>
+<l part="M" n="393a">Quid est?</l>
 <l n="394">tibi pallam dedi, quam uxori meae surrupui? sanan es?</l>
 <l n="395">certe haec mulier cantherino ritu ástans somniat.</l></sp>
 
@@ -952,23 +954,23 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="397">facta quae sunt?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="397.1">Dic quid est id quod negem quod fecerim?</l></sp>
+<l part="M" n="397a">Dic quid est id quod negem quod fecerim?</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="398">Pallam te hodie mihi dedisse uxoris.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="398.1">Etiam nunc nego.</l>
+<l part="M" n="398a">Etiam nunc nego.</l>
 <l n="399">ego quidem neque umquam uxorem hábui neque habeo, neque huc</l>
 <l n="400">umquam, postquam natus sum, intra portam penetravi pedem.</l>
 <lb ed="actscene" n="50"/><l part="I" n="401">prandi in navi, inde huc sum egressus, te conveni.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="401.1">Eccere,</l>
+<l part="M" n="401a">Eccere,</l>
 <l part="I" n="402">perii misera, quam tu mihi nunc navem narras?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="402.1">Ligneam,</l>
+<l part="M" n="402a">Ligneam,</l>
 <l n="403">saepe tritam, saepe fixam, saepe excussam malleo;</l>
 <l n="404">quasi supellex pellionis, palus palo proxumust.</l></sp>
 
@@ -981,45 +983,46 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <sp><speaker>Er.</speaker>
 <l n="407">Non ego te novi Menaechmum, Moscho prognatum patre,</l>
 <l n="408">qui Syracusis perhibere natus esse in Sicilia,</l>
-<l n="409-410">ubi rex Agathocles regnator fuit et iterum Phintia,</l>
+<l n="409">ubi rex Agathocles regnator fuit et iterum Phintia,</l>
 <l n="411">tertium Liparo, qui in morte regnum Hieroni tradidit,</l>
 <lb ed="actscene" n="60"/><l part="I" n="412">nunc Hiero est?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="412.1">Haud falsa, mulier, praedicas.</l></sp>
+<l part="M" n="412a">Haud falsa, mulier, praedicas.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="412.2">Pro Iuppiter,</l>
+<l part="M" n="412b">Pro Iuppiter,</l>
 <l n="413">num istaec mulier illinc venit, quae te novit tam cate?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="I" n="414-415">Hercle opinor, pernegari non potest.</l></sp>
+<l part="I" n="414">Hercle opinor, pernegari non potest.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="414-415.1">Ne feceris.</l>
+<l part="M" n="415">Ne feceris.</l>
 <l part="I" n="416">periisti, si intrassis intra limen.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="416.1">Quin tu tace modo.</l>
+<l part="M" n="416a">Quin tu tace modo.</l>
 <l n="417">bene res geritur. adsentabor quidquid dicet mulieri,</l>
 <lb ed="actscene" n="65"/><l n="418">si possum hospitium nancisci. iam dudum, mulier, tibi</l>
-<l n="419-420">non imprudens advorsabar: hunc metuebam, ne meae</l>
+<l n="419">non imprudens advorsabar: </l>
+<l n="420">hunc metuebam, ne meae</l>
 <l n="421">uxori renuntiaret de palla et de prandio.</l>
 <l part="I" n="422">nunc, quando vis, eamus intro.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="422.1">Etiam parasitum manes?</l></sp>
+<l part="M" n="422a">Etiam parasitum manes?</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="423">Neque ego illum maneo, neque flocci facio, neque, si venerit,</l>
 <lb ed="actscene" n="70"/><l part="I" n="424">eum volo intromitti.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="424.1">Ecastor haud invita fecero.</l>
+<l part="M" n="424a">Ecastor haud invita fecero.</l>
 <l part="I" n="425">sed scin quid te amabo ut facias?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="425.1">Impera quid vis modo.</l></sp>
+<l part="M" n="425a">Impera quid vis modo.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l n="426">Pallam illam, quam dudum dederas, ad phrygionem ut deferas,</l>
@@ -1033,32 +1036,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="430">Ergo mox auferto tecum, quando abibis.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="430.1">Maxime.</l></sp>
+<l part="M" n="430a">Maxime.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="431">Eamus intro</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="431.1">Iam sequar te. húnc volo etiam conloqui.</l>
+<l part="M" n="431a">Iam sequar te. húnc volo etiam conloqui.</l>
 <l part="I" n="432">eho Messenio, accede huc.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="432.1">Quid negoti est?</l></sp>
+<l part="M" n="432a">Quid negoti est?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="432.2">†sussciri.</l></sp>
+<l part="M" n="432b">†sussciri.</l></sp>
 
 <sp><speaker>M.</speaker>
 <l part="I" n="433">Quid eo opust?</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="433.1">Opus est. scio ut me dices.</l></sp>
+<l part="M" n="433a">Opus est. scio ut me dices.</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="433.2">Tanto nequior.</l></sp>
+<l part="M" n="433b">Tanto nequior.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<lb ed="actscene" n="80"/><l n="434-435">Habeo praedam: tantum incepi óperis. ei quantum potes,</l>
+<lb ed="actscene" n="80"/><l n="434">Habeo praedam: tantum incepi óperis. ei quantum potes,</l>
 <l n="436">abduc istos in tabernam actutum devorsoriam.</l>
 <l n="437">tum facito ante solem occasum ut venias advorsum mihi.</l></sp>
 
@@ -1066,13 +1069,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="438">Non tu istas meretrices novisti, ere.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="438.1">Tace, inquam <gap reason="lost"/> </l>
+<l part="M" n="438a">Tace, inquam <gap reason="lost"/> </l>
 <l n="439">mihi dolebit, non tibi, si quid ego stulte fecero.</l>
 <lb ed="actscene" n="85"/><l n="440">mulier haec stulta atque inscita est; quantum perspexi modo,</l>
 <l part="I" n="441">est hic praeda nobis.—</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="441.1">Perii, iamne abis? periit probe:</l>
+<l part="M" n="441a">Perii, iamne abis? periit probe:</l>
 <l n="442">ducit lembum dierectum navis praedatoria.</l>
 <l n="443">sed ego inscitus qui domino me postulem moderarier:</l>
 <l n="444">dicto me emit audientem, haud imperatorem sibi.</l>
@@ -1128,7 +1131,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l n="478">satur nunc loquitur de me et de parti mea.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l n="479-480">Ait hanc dedisse me sibí, atque eam meae</l>
+<l n="479">Ait hanc dedisse me sibí, atque eam meae</l>
 <lb ed="actscene" n="15"/><l n="481">uxori surrupuisse. quoniam sentio</l>
 <l n="482">errare, extemplo, quasi res cúm ea esset mihi,</l>
 <l n="483">coepi adsentari: mulier quidquid dixerat,</l>
@@ -1142,7 +1145,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="487">Quis hic ést, qui adversus it mihi?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="487.1">Quid ais, homo</l>
+<l part="M" n="487a">Quid ais, homo</l>
 <l n="488">levior quam pluma, pessime et nequissime,</l>
 <l n="489">flagitium hominis, subdole ac minimi preti?</l>
 <l n="490">quid de te merui, qua me causa perderes?</l>
@@ -1173,19 +1176,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="503">Menaechme, vigila.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="503.1">Vigilo hercle equidem, quod sciam.</l></sp>
+<l part="M" n="503a">Vigilo hercle equidem, quod sciam.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l part="I" n="504">Non me novisti?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="504.1">Non negem, si noverim.</l></sp>
+<l part="M" n="504a">Non negem, si noverim.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l part="I" n="505">Tuom parasitum non novisti?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="505.1">Non tibi</l>
+<l part="M" n="505a">Non tibi</l>
 <lb ed="actscene" n="40"/><l n="506">sanum est, adulescens, sinciput, intellego.</l></sp>
 
 <sp><speaker>Pen.</speaker>
@@ -1197,20 +1200,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="510">dedi nec pallam surrupui.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="510.1">Satin sanus es?</l>
+<l part="M" n="510a">Satin sanus es?</l>
 <lb ed="actscene" n="45"/><l n="511">occisast haec res. non ego te indutum foras</l>
 <l part="I" n="512">exire vidi pallam?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="512.1">Vae capiti tuo.</l>
+<l part="M" n="512a">Vae capiti tuo.</l>
 <l n="513">omnis cinaedos esse censes, tu quia es?</l>
-<l n="514-515">tun med indutum fuisse pallam praedicas?</l></sp>
+<l n="514">tun med indutum fuisse pallam praedicas?</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l part="I" n="516">Ego hercle vero.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="516.1">Non tu abis quo dignus es?</l>
+<l part="M" n="516a">Non tu abis quo dignus es?</l>
 <lb ed="actscene" n="50"/><l n="517">aut te piari iube, homo insanissime.</l></sp>
 
 <sp><speaker>Pen.</speaker>
@@ -1239,7 +1242,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="530">Scin quid hoc sit spinter?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="530.1">Nescio, nisi aureum.</l></sp>
+<l part="M" n="530a">Nescio, nisi aureum.</l></sp>
 
 <sp><speaker>Anc.</speaker>
 <l n="531">Hoc est quod olim clanculum ex armario</l>
@@ -1249,31 +1252,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="10"/><l part="I" n="533">Numquam hercle factum est.</l></sp>
 
 <sp><speaker>Anc.</speaker>
-<l part="M" n="533.1">Non meministi, obsecro?</l>
+<l part="M" n="533a">Non meministi, obsecro?</l>
 <l part="I" n="534">redde igitur spinter, si non meministi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="534.1">Mane.</l>
+<l part="M" n="534a">Mane.</l>
 <l n="535">immo equidem memini. nempe hoc est, quod illí dedi.</l></sp>
 
 <sp><speaker>Anc.</speaker>
 <l part="I" n="536">Istuc.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="536.1">Vbi illae armillaé sunt, quas una dedi?</l></sp>
+<l part="M" n="536a">Vbi illae armillaé sunt, quas una dedi?</l></sp>
 
 <sp><speaker>Anc.</speaker>
 <l part="I" n="537">Numquam dedisti.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="537.1">Nam pol hoc unum dedi.</l></sp>
+<l part="M" n="537a">Nam pol hoc unum dedi.</l></sp>
 
 <sp><speaker>Anc.</speaker>
 <lb ed="actscene" n="15"/><l part="I" n="538">Dicam curare?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="538.1">Dicito: curabitur.</l>
-<l n="539-540">et palla et spinter faxo referantur simul.</l></sp>
+<l part="M" n="538a">Dicito: curabitur.</l>
+<l n="539">et palla et spinter faxo referantur simul.</l></sp>
 
 <sp><speaker>Anc.</speaker>
 <l n="541">Amabo, mi Menaechme, inauris da mihi</l>
@@ -1293,13 +1296,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="547">Non habeo.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="547.1">At tu, quando habebis, tum dato.</l></sp>
+<l part="M" n="547a">At tu, quando habebis, tum dato.</l></sp>
 
 <sp><speaker>Anc.</speaker>
 <l part="I" n="548">Numquid <del>me</del> vis?—</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="548.1">Haec me curaturum dicito—</l>
+<l part="M" n="548a">Haec me curaturum dicito—</l>
 <lb ed="actscene" n="25"/><l n="549">ut quantum possint quique liceant veneant.</l>
 <l n="550">iamne abiit intro? abiit, operuit fores.</l>
 <l n="551">di me quidem omnes adiuvant, augent, amant.</l>
@@ -1321,7 +1324,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="561">atque ea ad amicam deferat?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="561.1">Quin tu taces?</l>
+<l part="M" n="561a">Quin tu taces?</l>
 <l n="562">manufesto faxo iam opprimes: sequere hac modo.</l>
 <lb ed="actscene" n="5"/><l n="563">pallam ad phrygionem cum corona ébrius</l>
 <l n="564">ferebat, hodie tibi quam surrupuit domo.</l>
@@ -1331,7 +1334,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="10"/><l part="I" n="568">sed pallam non fert.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="568.1">Quid ego nunc cum illoc agam?</l></sp>
+<l part="M" n="568a">Quid ego nunc cum illoc agam?</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l n="569">Idem quod semper: male habeas; sic censeo.</l>
@@ -1367,41 +1370,40 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="25"/><l n="594">néc magis manufestum ego hominem úmquam ullum teneri vidi:</l>
 <l n="595">omnibus male factis testes tres aderant acerrumi.</l>
 <l n="596">di illum ómnes perdant, íta mihi</l>
-<l n="596">hunc hódie corrupít diem,</l>
+<l n="596a">hunc hódie corrupít diem,</l>
 <l n="597">meque adeo, quí hodie forum</l>
-<lb ed="actscene" n="30"/><l n="597">umquam oculis inspexi meis.</l>
+<lb ed="actscene" n="30"/><l n="597a">umquam oculis inspexi meis.</l>
 <l n="598">diem corrupi óptimum:</l>
-<l n="598">iussi adparari prandium,</l>
+<l n="598a">iussi adparari prandium,</l>
 <l n="599">amica exspectat me, scio.</l>
-<l n="599">ubi primum est licitum, ílico</l>
+<l n="599a">ubi primum est licitum, ílico</l>
 <lb ed="actscene" n="35"/><l n="600">properavi abire de foro.</l>
-<l n="600">iratast, credo, nunc mihi;</l>
-<l n="601">placabit palla quam dedi,</l>
-<l n="601a">quam hódie uxori ábstuli atque huic détuli Erótio.</l></sp>
+<l n="600a">iratast, credo, nunc mihi;</l>
+<l n="601">placabit palla quam dedi,<lb/>quam hódie uxori ábstuli atque huic détuli Erótio.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l part="I" n="602">Quid aís?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="602.1">Viro me malo mále nuptam.</l></sp>
+<l part="M" n="602a">Viro me malo mále nuptam.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="602.2">Satin aúdis quae illic lóquitur?</l></sp>
+<l part="M" n="602b">Satin aúdis quae illic lóquitur?</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <lb ed="actscene" n="40"/><l part="I" n="603">Satis.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="603.1">Sí sapiam, hinc intro ábeam, ubi mi bene sít.</l></sp>
+<l part="M" n="603a">Sí sapiam, hinc intro ábeam, ubi mi bene sít.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="603.2">Mane: male erit pótius.</l></sp>
+<l part="M" n="603b">Mane: male erit pótius.</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <l part="I" n="604">Ne íllam ecastor faénerato ábstulisti.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="604.1">Síc datur.</l></sp>
+<l part="M" n="604a">Síc datur.</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <l n="605">Clanculum te istaec flagitia facere censebas potis?</l></sp>
@@ -1410,38 +1412,38 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="606">Quid illuc est, uxor, negoti?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="606.1">Men rogas?</l></sp>
+<l part="M" n="606a">Men rogas?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="606.2">Vin hunc rogem?</l></sp>
+<l part="M" n="606b">Vin hunc rogem?</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <l part="I" n="607">Aufer hinc palpationes.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="607.1">Perge tu.</l></sp>
+<l part="M" n="607a">Perge tu.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="607.2">Quid tu mihi</l>
+<l part="M" n="607b">Quid tu mihi</l>
 <lb ed="actscene" n="45"/><l part="I" n="608">tristis es?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="608.1">Te scire oportet.</l></sp>
+<l part="M" n="608a">Te scire oportet.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="608.2">Scit, sed dissimulat malus.</l></sp>
+<l part="M" n="608b">Scit, sed dissimulat malus.</l></sp>
 
 <sp><speaker>Me.</speaker>
 <l part="I" n="609">Quid negotist?</l></sp>
 
 <sp><speaker>Ma.</speaker>
-<l part="M" n="609.1">Pallam—</l></sp>
+<l part="M" n="609a">Pallam—</l></sp>
 
 <sp><speaker>Me.</speaker>
-<l part="M" n="609.2">Pallam?</l></sp>
+<l part="M" n="609b">Pallam?</l></sp>
 
 <sp><speaker>Ma.</speaker>
-<l part="M" n="609.3">Quidam pallam—</l></sp>
+<l part="M" n="609c">Quidam pallam—</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l part="M" n="609.4">Quid paves?</l></sp>
@@ -1450,14 +1452,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="610">Nil equidem paveo.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="610.1">Nisi unum: palla pallorem incutit.</l>
+<l part="M" n="610a">Nisi unum: palla pallorem incutit.</l>
 <l n="611">at tu ne clam me comesses prandium. perge in virum.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="612">Non taces?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="612.1">Non hercle vero taceo. nutat, ne loquar.</l></sp>
+<l part="M" n="612a">Non hercle vero taceo. nutat, ne loquar.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="50"/><l n="613">Non hercle ego quidem usquam quicquam nuto neque nicto tibi.</l></sp>
@@ -1466,7 +1468,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="614">Ne ego mecastor mulier misera.</l></sp>
 
 <sp><speaker>Me.</speaker>
-<l part="M" n="614.1">Qui tu misera es? mi expedi.</l></sp>
+<l part="M" n="614a">Qui tu misera es? mi expedi.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l n="615">Nihil hoc confidentius, qui quae vides ea pernegat.</l></sp>
@@ -1476,63 +1478,64 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="617">me isti non nutasse.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="617.1">Credit iam tibi de isto: illuc redi.</l></sp>
+<l part="M" n="617a">Credit iam tibi de isto: illuc redi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<lb ed="actscene" n="55"/><l part="I" n="618">Quó ego redeam?</l></sp>
+<lb ed="actscene" n="55"/>
+	<l part="I" n="618">Quó ego redeam?<lb/></l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="618.1">Equidem ad phrygionem censeo. ei, pallam refer.</l></sp>
+<l part="M" n="618a">Equidem ad phrygionem censeo. ei, pallam refer.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="619">Quae istaec palla est?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="619.1">Taceo iam, quando haec rem non meminit suam.</l>
-<l n="619a"><gap reason="lost"/> </l></sp>
+<l part="M" n="619a">Taceo iam, quando haec rem non meminit suam.<gap reason="lost"/></l>
+</sp>
 
 <sp><speaker>Men.</speaker>
 <l n="620">Numquis servorum deliquit? num ancillae aut servi tibi</l>
 <l part="I" n="621">responsant? eloquere. impune non erit.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="621.1">Nugas agis.</l></sp>
+<l part="M" n="621a">Nugas agis.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="60"/><l part="I" n="622">Tristis admodum es. non mi istuc satis placet.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="622.1">Nugas agis.</l></sp>
+<l part="M" n="622a">Nugas agis.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="623">Certe familiarium aliquoi írata es.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="623.1">Nugas agis.</l></sp>
+<l part="M" n="623a">Nugas agis.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="624">Num mihi es irata saltem?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="624.1">Nunc tu non nugas agis.</l></sp>
+<l part="M" n="624a">Nunc tu non nugas agis.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="625">Non edepol deliqui quicquam.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="625.1">Em rursum nunc nugas agis.</l></sp>
+<l part="M" n="625a">Em rursum nunc nugas agis.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="626">Dic, mea uxor, quid tibi aegre est?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="626.1">Bellus blanditur tibi.</l></sp>
+<l part="M" n="626a">Bellus blanditur tibi.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="65"/><l part="I" n="627">Potin ut mihi molestus ne sis? num te appello?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="627.1">Aufer manum.</l></sp>
+<l part="M" n="627a">Aufer manum.</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l n="628">Sic datur. properato absente me comesse prandium,</l>
@@ -1545,10 +1548,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="631">Tun negas?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="631.1">Nego hercle vero.</l></sp>
+<l part="M" n="631a">Nego hercle vero.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="631.2">Nihil hoc homine audacius.</l>
+<l part="M" n="631b">Nihil hoc homine audacius.</l>
 <lb ed="actscene" n="70"/><l n="632">non ego te modo hic ante aedis cum corona florea</l>
 <l n="633">vidi astare? quom negabas mi esse sanum sinciput,</l>
 <l n="634">et negabas me novisse, peregrinum aibas esse te?</l></sp>
@@ -1561,46 +1564,45 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="75"/><l part="I" n="637">omnia hercle uxori dixi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="637.1">Quid dixisti?</l></sp>
+<l part="M" n="637a">Quid dixisti?</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="637.2">Nescio,</l>
+<l part="M" n="637b">Nescio,</l>
 <l part="I" n="638">eam ipsus roga.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="638.1">Quid hoc est, uxor? quidnam hic narravit tibi?</l>
+<l part="M" n="638a">Quid hoc est, uxor? quidnam hic narravit tibi?</l>
 <l part="I" n="639">quid id est? quid taces? quin dicis quid sit?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="639.1">Quasi tu nescias.</l>
-<l n="639"><gap reason="lost"/> </l>
-<l part="I" n="639a"><del>palla mi est domo surrepta.</del></l></sp>
+<l part="M" n="639a">Quasi tu nescias. <gap reason="lost"/></l>
+<l part="I" n="639b"><del>palla mi est domo surrepta.</del></l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="639a.1"><del>Palla surrepta est tibi?</del></l></sp>
+<l part="M" n="639c"><del>Palla surrepta est tibi?</del></l></sp>
 
 <sp><speaker>Mat.</speaker>
 <lb ed="actscene" n="80"/><l part="I" n="640">Me rogas?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="640.1">Pol haud rogem te, si sciam.</l></sp>
+<l part="M" n="640a">Pol haud rogem te, si sciam.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="640.2">O hominem malum,</l>
+<l part="M" n="640b">O hominem malum,</l>
 <l n="641">ut dissimulat. non potes celare: rem novit probe.</l>
 <l part="I" n="642">omnia hercle ego edictavi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="642.1">Quid id est?</l></sp>
+<l part="M" n="642a">Quid id est?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="642.2">Quando nil pudet</l>
+<l part="M" n="642b">Quando nil pudet</l>
 <l n="643">neque vis tua voluntate ipse profiteri, audi atque ades.</l>
 <l n="644">et quid tristis <add>sim</add> et quid hic mihi dixerit, faxo scias.</l>
 <lb ed="actscene" n="85"/><l part="I" n="645">palla mi est domo surrupta.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="645.1">Palla surruptast mihi?</l></sp>
+<l part="M" n="645a">Palla surruptast mihi?</l></sp>
 
 <sp><speaker>Pen.</speaker>
 <l n="646">Viden ut <add>te</add> scelestus captat? huic surruptast, non tibi.</l>
@@ -1610,32 +1612,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="648">Nil mihi tecum est. sed tu quid ais?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="648.1">Palla, inquam, periit domo.</l></sp>
+<l part="M" n="648a">Palla, inquam, periit domo.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="649">Quis eam surrupuit?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="649.1">Pol istuc ille scit qui illam abstulit.</l></sp>
+<l part="M" n="649a">Pol istuc ille scit qui illam abstulit.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="90"/><l part="I" n="650">Quis is homo est?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="650.1">Menaechmus quidam.</l></sp>
+<l part="M" n="650a">Menaechmus quidam.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="650.2">Edepol factum nequiter.</l>
+<l part="M" n="650b">Edepol factum nequiter.</l>
 <l part="I" n="651">quis is Menaechmust?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="651.1">Tu istic, inquam.</l></sp>
+<l part="M" n="651a">Tu istic, inquam.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="651.2">Egone?</l></sp>
+<l part="M" n="651b">Egone?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="651.3">Tu.</l></sp>
+<l part="M" n="651c">Tu.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="M" n="651.4">Quis arguit?</l></sp>
@@ -1644,22 +1646,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="652">Egomet.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="652.1">Et ego. atque huic amicae detulisti Erotio.</l></sp>
+<l part="M" n="652a">Et ego. atque huic amicae detulisti Erotio.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="653">Egon dedi?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="653.1">Tu, tu istic, inquam. vin adferri noctuam,</l>
+<l part="M" n="653a">Tu, tu istic, inquam. vin adferri noctuam,</l>
 <l n="654">quae <q>tu tu</q> usque dicat tibi? nam nos iam defessi sumus.</l>
 <lb ed="actscene" n="95"/><l part="I" n="655"/></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="655.1"><del>Per Iovem deosque omnis adiuro, uxor (satin hoc est tibi?)</del></l>
+<l part="M" n="655a"><del>Per Iovem deosque omnis adiuro, uxor (satin hoc est tibi?)</del></l>
 <l part="I" n="656"><del>non dedisse.</del></l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="656.1"><del>Immo hercle vero, nos non falsum dicere.</del></l></sp>
+<l part="M" n="656a"><del>Immo hercle vero, nos non falsum dicere.</del></l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="657">Sed ego illam non condonavi, sed sic utendam dedi.</l></sp>
@@ -1673,12 +1675,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="661">Ego faxo referetur.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="661.1">Ex re tua, ut opinor, feceris;</l>
+<l part="M" n="661a">Ex re tua, ut opinor, feceris;</l>
 <l n="662">nam domum numquam introibis, nisi feres pallam simul.</l>
 <l part="I" n="663">eo domum.</l></sp>
 
 <sp><speaker>Pen.</speaker>
-<l part="M" n="663.1">Quid mihi futurum est, qui tibi hanc operam dedi?</l></sp>
+<l part="M" n="663a">Quid mihi futurum est, qui tibi hanc operam dedi?</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <l n="664">Opera reddetur, quando quid tibi erit surruptum domo.—</l></sp>
@@ -1703,17 +1705,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="675">Quis hic me quaerit?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="675.1">Sibi inimicus magis quam aétati tuae.</l></sp>
+<l part="M" n="675a">Sibi inimicus magis quam aétati tuae.</l></sp>
 
 <sp><speaker>Er.</speaker>
 <l part="I" n="676">Mi Menaechme, cur ante aedis astas? sequere intro.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="676.1">Mane.</l>
+<l part="M" n="676a">Mane.</l>
 <l part="I" n="677">scin quid est quod ego ad te venio?</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="677.1">Scio, ut tibi ex me sit volup.</l></sp>
+<l part="M" n="677a">Scio, ut tibi ex me sit volup.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="678">Immo edepol pallam illam, amabo te, quam tibi dudum dedi,</l>
@@ -1730,7 +1732,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="685">nunc redeo, nunc te postillac video.</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="685.1">Video quam rem agis.</l>
+<l part="M" n="685a">Video quam rem agis.</l>
 <l n="686">quia commisi, ut me defrudes, ad eam rem adfectas viam.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -1738,7 +1740,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="688">dico uxorem rescivisse)—</l></sp>
 
 <sp><speaker>Er.</speaker>
-<l part="M" n="688.1">Nec te ultro oravi ut dares:</l>
+<l part="M" n="688a">Nec te ultro oravi ut dares:</l>
 <lb ed="actscene" n="15"/><l n="689">tute ultro ad me detulisti, dedisti eam dono mihi;</l>
 <l n="690">eandem nunc reposcis: patiar. tibi habe, aufer, utere</l>
 <l n="691">vel tu vel tua uxor, vel etiam in loculos compingite.</l>
@@ -1776,11 +1778,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="709">flagitium hominis, cum istoc ornatu?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="709.1">Quid est?</l>
+<l part="M" n="709a">Quid est?</l>
 <lb ed="actscene" n="10"/><l part="I" n="710">quae te res agitat, mulier?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="710.1">Etiamne, impudens,</l>
+<l part="M" n="710a">Etiamne, impudens,</l>
 <l n="711">muttire verbum unum audes aut mecum loqui?</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -1794,7 +1796,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="15"/><l part="I" n="715">Graii esse praedicabant?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="715.1">Non equidem scio.</l></sp>
+<l part="M" n="715a">Non equidem scio.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="716">Quia idem faciebat Hecuba quod tu nunc facis:</l>
@@ -1836,11 +1838,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="738">iam ego aperiam istaec tua flagitia.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="738.1">Sanan es?</l>
+<l part="M" n="738a">Sanan es?</l>
 <l part="I" n="739">quae mea flagitia?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="739.1">Pallam atque aurum meum</l>
+<l part="M" n="739a">Pallam atque aurum meum</l>
 <lb ed="actscene" n="40"/><l n="740">domo suppilas tuae uxori et tuae</l>
 <l n="741">degeris amicae. satin haec recte fabulor?</l></sp>
 
@@ -1856,7 +1858,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="748">novistin tu illum?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="748.1">Novi cum Calcha simul:</l>
+<l part="M" n="748a">Novi cum Calcha simul:</l>
 <l n="749">eodém die illum vidi quo te ante hunc diem.</l></sp>
 
 <sp><speaker>Mat.</speaker>
@@ -1898,7 +1900,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="25"/><l part="I" n="775">áppellabo hanc.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="775.1">Ibo advorsum. sálve multum, mí pater.</l></sp>
+<l part="M" n="775a">Ibo advorsum. sálve multum, mí pater.</l></sp>
 
 <sp><speaker>Sen.</speaker>
 <l n="776">Salva sis. salven advenio? salven accersi iubes?</l>
@@ -1912,17 +1914,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="782">proin tu me hinc abducas.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="782.1">Quid istuc autem est?</l></sp>
+<l part="M" n="782a">Quid istuc autem est?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="782.2">Ludibrio, pater,</l>
+<l part="M" n="782b">Ludibrio, pater,</l>
 <l part="I" n="783">habeor.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="783.1">Vnde?</l></sp>
+<l part="M" n="783a">Vnde?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="783.2">Ab illo, quoi me mandavisti, meo viro.</l></sp>
+<l part="M" n="783b">Ab illo, quoi me mandavisti, meo viro.</l></sp>
 
 <sp><speaker>Sen.</speaker>
 <l n="784">Ecce autem litigium. quotiens tandem édixi tibi,</l>
@@ -1932,27 +1934,27 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="786">Qui ego istuc, mi pater, cavere possum?</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="786.1">Men interrogas?</l></sp>
+<l part="M" n="786a">Men interrogas?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="I" n="787-788">Nisi non vis.</l></sp>
+<l part="I" n="787">Nisi non vis.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="787-788.1">Quotiens monstravi tibi, viro ut morem geras,</l>
+<l part="M" n="788">Quotiens monstravi tibi, viro ut morem geras,</l>
 <l n="789">quid ille faciat, né id observes, quó eat, quid rerum gerat.</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <l part="I" n="790">At enim ille hinc amat meretricem ex proxumo.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="790.1">Sane sapit,</l>
+<l part="M" n="790a">Sane sapit,</l>
 <lb ed="actscene" n="40"/><l n="791">atque ob istánc industriam etiam faxo amabit amplius.</l></sp>
 
 <sp><speaker>Mat.</speaker>
 <l part="I" n="792">Atque ibi potat.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="792.1">Tua quidem ille causa potabit minus,</l>
+<l part="M" n="792a">Tua quidem ille causa potabit minus,</l>
 <l n="793">si illic sive alibi libebit? quae haec, malum, impudentiast?</l>
 <l n="794">una opera prohibere, ad cenam ne promittat, postules,</l>
 <l n="795">neve quemquam accipiat alienum apud se. serviren tibi</l>
@@ -1964,7 +1966,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="799">hinc stas, illim causam dicis.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="799.1">Si ille quid deliquerit,</l>
+<l part="M" n="799a">Si ille quid deliquerit,</l>
 <l n="800">multo tanto illum accusabo, quam te accusavi, amplius.</l>
 <lb ed="actscene" n="50"/><l n="801">quando te auratam et vestitam bene habet, ancillas penum</l>
 <l n="802">recte praehibet, melius sanam est, mulier, mentem sumere.</l></sp>
@@ -1978,7 +1980,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="55"/><l part="I" n="806">quae insontem insimules.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="806.1">Quin etiam nunc habet pallam, pater,</l>
+<l part="M" n="806a">Quin etiam nunc habet pallam, pater,</l>
 <l n="807"><add>et</add> spinter, quod ad hanc detulerat, nunc, quia rescivi, refert.</l></sp>
 
 <sp><speaker>Sen.</speaker>
@@ -1991,12 +1993,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="812">deosque do testes—</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="812.1">Qua de re aut cuius rei rerum omnium?</l></sp>
+<l part="M" n="812a">Qua de re aut cuius rei rerum omnium?</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="813">Me neque isti male fecisse mulieri, quae me arguit</l>
 <l n="814">hanc domo ab se surrupuisse atque abstulisse <gap reason="lost"/> deierat.</l>
-<l n="815-816">sí ego intra aedis huius umquam, ubi habitat, penetravi <add>pedem</add>,</l>
+<l n="815">sí ego intra aedis huius umquam, ubi habitat, penetravi <add>pedem</add>,</l>
 <lb ed="actscene" n="65"/><l n="817">omnium hominum exopto ut fiam miserorum miserrimus.</l></sp>
 
 <sp><speaker>Sen.</speaker>
@@ -2010,21 +2012,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="821">Tun negas?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="821.1">Nego hercle vero.</l></sp>
+<l part="M" n="821a">Nego hercle vero.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="821.2">Immo hercle †ludere negas;</l>
+<l part="M" n="821b">Immo hercle †ludere negas;</l>
 <lb ed="actscene" n="70"/><l n="822">nisi quo nocte hac exmigrastis. concede huc, <add>mea</add> filia.</l>
 <l part="I" n="823">quid tu ais? num hinc exmigrastis?</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="823.1">Quem in locum aut <add>quam</add> ob rem, obsecro?</l></sp>
+<l part="M" n="823a">Quem in locum aut <add>quam</add> ob rem, obsecro?</l></sp>
 
 <sp><speaker>Sen.</speaker>
 <l part="I" n="824">Non edepol scio.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="824.1">Profecto ludit te hic. non tu tenes?</l></sp>
+<l part="M" n="824a">Profecto ludit te hic. non tu tenes?</l></sp>
 
 <sp><speaker>Sen.</speaker>
 <l n="825">Iam vero, Menaechme, satis <choice><expan><abbr>iocatu's</abbr><ex>iocatus es</ex></expan></choice>. nunc hanc rem gere.</l></sp>
@@ -2035,7 +2037,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <sp><speaker>Mat.</speaker>
 <l n="828">Viden tu ílli oculos virere? ut viridis exoritur colos</l>
-<l n="829-830">ex temporibus atque fronte, ut oculi scintillant, vide.</l></sp>
+<l n="829">ex temporibus atque fronte, ut oculi scintillant, vide.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="831">Quid mihi meliust, quam quando illi me insanire praedicant,</l>
@@ -2058,7 +2060,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="840">Vae capiti tuo.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="840.1">Ecce, Apollo mi ex oraclo ímperat,</l>
+<l part="M" n="840a">Ecce, Apollo mi ex oraclo ímperat,</l>
 <l n="841">ut ego ílli oculos exuram lampadibus ardentibus.</l></sp>
 
 <sp><speaker>Mat.</speaker>
@@ -2066,32 +2068,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="90"/><l part="I" n="843"/></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="843.1"><del>Ei mihi, insanire me aiunt, ultro cum ipsi insaniunt.</del></l></sp>
+<l part="M" n="843a"><del>Ei mihi, insanire me aiunt, ultro cum ipsi insaniunt.</del></l></sp>
 
 <sp><speaker>Sen.</speaker>
 <l part="I" n="844">Filia, heus.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="844.1">Quid est? quid agimus?</l></sp>
+<l part="M" n="844a">Quid est? quid agimus?</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="844.2">Quid si ego huc servos cito?</l>
+<l part="M" n="844b">Quid si ego huc servos cito?</l>
 <l n="845">ibo, abducam qui hunc hinc tollant et domi devinciant,</l>
 <l part="I" n="846">prius quam turbarum quid faciat amplius.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="846.1">Enim haereo;</l>
+<l part="M" n="846a">Enim haereo;</l>
 <l n="847">ni occupo aliquid mihi consilium, hí domum me ad se auferent.</l>
 <lb ed="actscene" n="95"/><l n="848">pugnis me votas in huius ore quicquam parcere,</l>
 <l n="849">ni a meis oculis abscedat in malam magnam crucem.</l>
 <l part="I" n="850">faciam quod iubes, Apollo.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="850.1">Fuge domum, quantum potest,</l>
+<l part="M" n="850a">Fuge domum, quantum potest,</l>
 <l part="I" n="851">ne hic te obtundat.</l></sp>
 
 <sp><speaker>Mat.</speaker>
-<l part="M" n="851.1">Fugio. amabo, ádserva istunc, mi pater,</l>
+<l part="M" n="851a">Fugio. amabo, ádserva istunc, mi pater,</l>
 <l n="852">ne quo hinc abeat. sumne ego mulier misera, quae illaec audio?—</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -2101,7 +2103,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="856">comminuam illo scipione quem ipse habet.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="856.1">Dabitur malum,</l>
+<l part="M" n="856a">Dabitur malum,</l>
 <l n="857">me quidem si attígeris aut si propius ad me accesseris.</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -2124,7 +2126,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="115"/><l part="I" n="868">Mihin equis iunctis minare?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="868.1">Ecce, Apollo, denuo</l>
+<l part="M" n="868a">Ecce, Apollo, denuo</l>
 <l n="869">me iubes facere impetum in eum qui stat atque occidere.</l>
 <l n="870">sed quis hic est qui me capillo hínc de curru deripit?</l>
 <l n="871">imperium tuom demutat atque edictum Apollinis.</l></sp>
@@ -2141,7 +2143,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l n="876">Iamne isti abierunt, quaeso, ex conspectu meo,</l>
 <l n="877">qui me vi cogunt, ut validus insaniam?</l>
 <l n="878">quid cesso abire ad navem, dum salvo licet?</l>
-<l n="879-880">vosque omnis quaeso, si senex revenerit,</l>
+<l n="879">vosque omnis quaeso, si senex revenerit,</l>
 <lb ed="actscene" n="5"/><l n="881">ne me indicetis qua platea hinc aufugerim.—</l></sp>
 
 <sp><speaker>Senex</speaker>
@@ -2165,7 +2167,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="5"/><l part="I" n="893">atque illum ut sanum facias.</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="893.1">Perfacile id quidemst.</l>
+<l part="M" n="893a">Perfacile id quidemst.</l>
 <l n="894">sanum futurum, mea ego id promitto fide.</l></sp>
 
 <sp><speaker>Sen.</speaker>
@@ -2196,10 +2198,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="909">Audin quae loquitur?</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="909.1">Se miserum praedicat.</l></sp>
+<l part="M" n="909a">Se miserum praedicat.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="909.2">Adeas velim.</l></sp>
+<l part="M" n="909b">Adeas velim.</l></sp>
 
 <sp><speaker>Med.</speaker>
 <l n="910">Salvos sis, Menaechme. quaeso, cur apertas brachium?</l>
@@ -2209,41 +2211,41 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="912">Quin tu te suspendis?</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="912.1">Ecquid sentis?</l></sp>
+<l part="M" n="912a">Ecquid sentis?</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="912.2">Quidni sentiam?</l>
+<l part="M" n="912b">Quidni sentiam?</l>
 <lb ed="actscene" n="15"/><l n="913">non potest haec res ellebori †iungere optinerier.</l>
 <l part="I" n="914">sed quid ais, Menaechme?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="914.1">Quid vis?</l></sp>
+<l part="M" n="914a">Quid vis?</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="914.2">Dic mihi hoc quod te rogo:</l>
+<l part="M" n="914b">Dic mihi hoc quod te rogo:</l>
 <l part="I" n="915">album an atrum vinum potas?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="915.1">Quin tu is in malam crucem?</l></sp>
+<l part="M" n="915a">Quin tu is in malam crucem?</l></sp>
 
 <sp><speaker>Med.</speaker>
 <l part="I" n="916">Iam hercle occeptat insanire primulum. <gap reason="lost"/> </l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="916.1">Quin tu me interrogas,</l>
+<l part="M" n="916a">Quin tu me interrogas,</l>
 <l n="917">purpureum panem an puniceum soleam ego esse an luteum?</l>
 <lb ed="actscene" n="20"/><l part="I" n="918">soleamne esse avis squamosas, piscis pennatos?</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="918.1">Papae,</l>
-<l n="919-920">audin tu ut deliramenta loquitur? quid cessas dare</l>
+<l part="M" n="918a">Papae,</l>
+<l n="919">audin tu ut deliramenta loquitur? quid cessas dare</l>
 <l n="921">potionis aliquid prius quam percipit insania?</l></sp>
 
 <sp><speaker>Med.</speaker>
 <l part="I" n="922">Mane modo, etiam percontabor alia.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="922.1">Occidis fabulans.</l></sp>
+<l part="M" n="922a">Occidis fabulans.</l></sp>
 
 <sp><speaker>Med.</speaker>
 <l n="923">Dic mihi hoc: solent tibi umquam óculi duri fieri?</l></sp>
@@ -2276,15 +2278,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="35"/><l part="I" n="934">Quid, ego?</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="934.1">Dixti insanus, inquam.</l></sp>
+<l part="M" n="934a">Dixti insanus, inquam.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="934.2">Egone?</l></sp>
+<l part="M" n="934b">Egone?</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="934.3">Tu istic, qui mihi</l>
+<l part="M" n="934c">Tu istic, qui mihi</l>
 <l n="935">etiam me iunctis quadrigis <choice><expan><abbr>minitatu's</abbr><ex>minitatus es</ex></expan></choice> prosternere.</l>
-<l n="936-940">egomet haec te vidi facere, égomet haec ted arguo.</l></sp>
+<l n="936">egomet haec te vidi facere, égomet haec ted arguo.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="941">At ego te sacram coronam surrupuisse Iovi scio,</l>
@@ -2298,18 +2300,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="947">non vides hominem insanire?</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="947.1">Scin quid facias optimum est?</l>
+<l part="M" n="947a">Scin quid facias optimum est?</l>
 <lb ed="actscene" n="45"/><l part="I" n="948">ad me face uti deferatur.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="948.1">Itane censes?</l></sp>
+<l part="M" n="948a">Itane censes?</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="948.2">Quippini?</l>
+<l part="M" n="948b">Quippini?</l>
 <l part="I" n="949">ibi meo arbitratu potero curare hominem.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="949.1">Age ut lubet.</l></sp>
+<l part="M" n="949a">Age ut lubet.</l></sp>
 
 <sp><speaker>Med.</speaker>
 <l n="950">Elleborum potabis faxo áliquos viginti dies.</l></sp>
@@ -2321,7 +2323,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="952">I, arcesse homines, qui illunc ad me deferant.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="952.1">Quot sunt satis?</l></sp>
+<l part="M" n="952a">Quot sunt satis?</l></sp>
 
 <sp><speaker>Med.</speaker>
 <lb ed="actscene" n="50"/><l n="953">Proinde ut insanire video, quattuor, nihilo minus.</l></sp>
@@ -2330,18 +2332,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="954">Iam hic erunt. asserva tu istunc, medice.</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="954.1">Immo ibo domum,</l>
+<l part="M" n="954a">Immo ibo domum,</l>
 <l n="955">ut parentur quibus paratis opus est. tu servos iube</l>
 <l part="I" n="956">hunc ad me ferant.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="956.1">Iam ego illic faxo erit.</l></sp>
+<l part="M" n="956a">Iam ego illic faxo erit.</l></sp>
 
 <sp><speaker>Med.</speaker>
-<l part="M" n="956.2">Abeo.</l></sp>
+<l part="M" n="956b">Abeo.</l></sp>
 
 <sp><speaker>Sen.</speaker>
-<l part="M" n="956.3">Vale.—</l></sp>
+<l part="M" n="956c">Vale.—</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="957">Abiit socerus, abiit medicus. <del>nunc</del> sólus sum. pro Iuppiter,</l>
@@ -2396,7 +2398,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="996">ego ibo ad medicum: praesto ero illi, cum venietis.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="996.1">Occidi,</l>
+<l part="M" n="996a">Occidi,</l>
 <l n="997">quid hoc ést negoti? quid illisce homines ad me currunt, opsecro?</l>
 <l n="998">quid voltis vos? quid quaeritatis? quid me circumsistitis?</l>
 <lb ed="actscene" n="10"/><l n="999">quo rapitis me? quo fertis me? perii, opsecro vestram fidem,</l>
@@ -2410,14 +2412,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1003">Ecquis suppetias mihi audet ferre?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1003.1">Ego, ere, audacissime.</l>
+<l part="M" n="1003a">Ego, ere, audacissime.</l>
 <lb ed="actscene" n="15"/><l n="1004">o facinus indignum et malum, Epidamnii cives, erum</l>
 <l n="1005">meum hic in pacato oppido luci deripier in via,</l>
 <l n="1006">qui liber ad vos venerit.</l>
 <l part="I" n="1007">mittite istunc.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1007.1">Obsecro te, quisquis es, operam mihi ut des,</l>
+<l part="M" n="1007a">Obsecro te, quisquis es, operam mihi ut des,</l>
 <l n="1008">neu sinas in me insignite fieri tantam iniuriam.</l></sp>
 
 <sp><speaker>Mess.</speaker>
@@ -2431,22 +2433,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="25"/><l part="I" n="1014">Teneo ego huic oculum.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1014.1">Face ut oculi locus in capite appareat.</l>
+<l part="M" n="1014a">Face ut oculi locus in capite appareat.</l>
 <l part="I" n="1015">vos scelesti, vos rapacis, vos praedones.</l></sp>
 
 <sp><speaker>Lorarii.</speaker>
-<l part="M" n="1015.1">Periimus.</l>
+<l part="M" n="1015a">Periimus.</l>
 <l part="I" n="1016">obsecro hercle.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1016.1">Mittite ergo.</l></sp>
+<l part="M" n="1016a">Mittite ergo.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1016.2">Quid me vobis tactiost?</l>
+<l part="M" n="1016b">Quid me vobis tactiost?</l>
 <l part="I" n="1017">pecte pugnis.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1017.1">Agite abite, fugite hinc in malam crucem.</l>
+<l part="M" n="1017a">Agite abite, fugite hinc in malam crucem.</l>
 <l n="1018">em tibi etiam: quia postremus cedis, hoc praemi feres.</l>
 <lb ed="actscene" n="30"/><l n="1019">nimis bene ora commetavi atque ex mea sententia.</l>
 <l n="1020">edepol, ere, ne tibi suppetias temperi adveni modo.</l></sp>
@@ -2462,24 +2464,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="35"/><l part="I" n="1024">Liberem ego te?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1024.1">Verum, quandoquidem, ere, te servavi.</l></sp>
+<l part="M" n="1024a">Verum, quandoquidem, ere, te servavi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1024.2">Quid est?</l>
+<l part="M" n="1024b">Quid est?</l>
 <l part="I" n="1025">adulescens, erras.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1025.1">Quid, erro?</l></sp>
+<l part="M" n="1025a">Quid, erro?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1025.2">Per Iovem adiuro patrem,</l>
+<l part="M" n="1025b">Per Iovem adiuro patrem,</l>
 <l part="I" n="1026">med erum tuom non esse.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1026.1">Non taces?</l></sp>
+<l part="M" n="1026a">Non taces?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1026.2">Non mentior;</l>
+<l part="M" n="1026b">Non mentior;</l>
 <l n="1027">nec meus servos úmquam tale fecit quale tu mihi.</l></sp>
 
 <sp><speaker>Mess.</speaker>
@@ -2492,7 +2494,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1030">Nempe iubes?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1030.1">Iubeo hercle, si quid imperi est in te mihi.</l></sp>
+<l part="M" n="1030a">Iubeo hercle, si quid imperi est in te mihi.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l n="1031">Salve, mi patrone. cum tu liber es, Messenio,</l>
@@ -2504,12 +2506,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1035">Minime.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1035.1">Nunc ibo in tabernam, vasa atque argentum tibi</l>
+<l part="M" n="1035a">Nunc ibo in tabernam, vasa atque argentum tibi</l>
 <l n="1036">referam. recte est obsignatum in vidulo marsuppium</l>
 <l part="I" n="1037">cum viatico: id tibí iam huc adferam.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1037.1">Adfer strenue.</l></sp>
+<l part="M" n="1037a">Adfer strenue.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l n="1038">Salvom tibi ita ut mihi dedisti reddibo. hic me mane.—</l></sp>
@@ -2534,7 +2536,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1051">postquam advorsum mi imperavi ut huc venires?</l></sp>
 
 <sp><speaker>Messenio</speaker>
-<l part="M" n="1051.1">Quin modo</l>
+<l part="M" n="1051a">Quin modo</l>
 <l n="1052">erupui, homines quom ferebant te sublimen quattuor,</l>
 <l n="1053">apud hasce aedis. tu clamabas deum fidem atque hominum omnium,</l>
 <lb ed="actscene" n="5"/><l n="1054">quóm ego accurro teque eripio vi pugnando ingratiis.</l>
@@ -2546,10 +2548,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1058">Liberum ego te iussi abire?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1058.1">Certo.</l></sp>
+<l part="M" n="1058a">Certo.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1058.2">Quin certissimumst,</l>
+<l part="M" n="1058b">Quin certissimumst,</l>
 <lb ed="actscene" n="10"/><l n="1059">mepte potius fieri servom, quam te umquam emittam manu.</l></sp>
 </div>
 <div type="textpart" subtype="scene" n="9">
@@ -2562,16 +2564,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1062">Pro di ímmortales, quid ego video?</l></sp>
 
 <sp><speaker>S.</speaker>
-<l part="M" n="1062.1">Quid vides?</l></sp>
+<l part="M" n="1062a">Quid vides?</l></sp>
 
 <sp><speaker>Mes.</speaker>
-<l part="M" n="1062.2">Speculum tuom.</l></sp>
+<l part="M" n="1062b">Speculum tuom.</l></sp>
 
 <sp><speaker>Sos.</speaker>
 <l part="I" n="1063">Quid negoti est?</l></sp>
 
 <sp><speaker>Mes.</speaker>
-<l part="M" n="1063.1">Tuast imago. tam consimilest quam potest.</l></sp>
+<l part="M" n="1063a">Tuast imago. tam consimilest quam potest.</l></sp>
 
 <sp><speaker>Sos.</speaker>
 <lb ed="actscene" n="5"/><l n="1064">Pol profecto haud est dissimilis, meam quom formam noscito.</l></sp>
@@ -2587,22 +2589,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1068"><add>obsequi</add>. mihi est Menaechmo nomen.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1068.1">Immo edepol mihi.</l></sp>
+<l part="M" n="1068a">Immo edepol mihi.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <lb ed="actscene" n="10"/><l part="I" n="1069">Siculus sum Syracusanus.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1069.1">Eadem urbs et patria est mihi.</l></sp>
+<l part="M" n="1069a">Eadem urbs et patria est mihi.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="1070">Quid ego ex te audio?</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1070.1">Hoc quod res est.</l></sp>
+<l part="M" n="1070a">Hoc quod res est.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1070.2">Novi equidem hunc: erus est meus.</l>
+<l part="M" n="1070b">Novi equidem hunc: erus est meus.</l>
 <l n="1071">ego quidem huius servos sum, sed med esse huius credidi.</l>
 <l n="1072">ego hunc censebam te esse, huic etiam éxhibui negotium.</l>
 <l n="1073">quaeso ignoscas, si quid stulte dixi atque imprudens tibi.</l></sp>
@@ -2612,25 +2614,25 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1075">te hodie mecum exire ex navi?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1075.1">Enim vero aequom postulas.</l>
+<l part="M" n="1075a">Enim vero aequom postulas.</l>
 <l n="1076">tú erus es: tu servom quaere. tu salveto: tu vale.</l>
 <l part="I" n="1077">hunc ego esse aio Menaechmum.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1077.1">At ego me.</l></sp>
+<l part="M" n="1077a">At ego me.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1077.2">Quae haec fabulast?</l>
+<l part="M" n="1077b">Quae haec fabulast?</l>
 <l part="I" n="1078">tú es Menaechmus?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1078.1">Me esse dico, Moscho prognatum patre.</l></sp>
+<l part="M" n="1078a">Me esse dico, Moscho prognatum patre.</l></sp>
 
 <sp><speaker>Sos.</speaker>
 <lb ed="actscene" n="20"/><l part="I" n="1079">Tun meo patre es prognatus?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1079.1">Immo equidem, adulescens, meo;</l>
+<l part="M" n="1079a">Immo equidem, adulescens, meo;</l>
 <l n="1080">tuom tibi neque occupare neque praeripere postulo.</l></sp>
 
 <sp><speaker>Mess.</speaker>
@@ -2640,23 +2642,23 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="25"/><l part="I" n="1084">sevocabo erum. Menaechme.</l></sp>
 
 <sp><speaker>Men. Sos.</speaker>
-<l part="M" n="1084.1">Quid vis?</l></sp>
+<l part="M" n="1084a">Quid vis?</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1084.2">Non ambos volo,</l>
+<l part="M" n="1084b">Non ambos volo,</l>
 <l part="I" n="1085">sed uter vostrorum est advectus mecum navi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1085.1">Non ego.</l></sp>
+<l part="M" n="1085a">Non ego.</l></sp>
 
 <sp><speaker>Sos.</speaker>
 <l part="I" n="1086">At ego.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1086.1">Te volo igitur. huc concede.</l></sp>
+<l part="M" n="1086a">Te volo igitur. huc concede.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1086.2">Concessi. quid est?</l></sp>
+<l part="M" n="1086b">Concessi. quid est?</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l n="1087">Illic homó aut sycophanta aut geminus est frater tuos.</l>
@@ -2671,10 +2673,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="35"/><l part="I" n="1094">hunc meum fratrem esse.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1094.1">Spero.</l></sp>
+<l part="M" n="1094a">Spero.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1094.2">Et ego item spero fore.</l></sp>
+<l part="M" n="1094b">Et ego item spero fore.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l n="1095">Quid ais tu? Menaechmum, opinor, te vocari dixeras.</l></sp>
@@ -2683,7 +2685,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1096">Ita vero.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1096.1">Huic item Menaechmo nomen est. in Sicilia</l>
+<l part="M" n="1096a">Huic item Menaechmo nomen est. in Sicilia</l>
 <l n="1097">te Syracusis natum esse dixti: <add>et</add> hic natust ibi.</l>
 <l n="1098">Moschum tibi patrem fuisse dixti: huic itidem fuit.</l>
 <lb ed="actscene" n="40"/><l n="1099">nunc operam potestis ambo mihi dare et vobis simul.</l></sp>
@@ -2709,34 +2711,34 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1107">Est tibi nomen Menaechmo?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1107.1">Fateor.</l></sp>
+<l part="M" n="1107a">Fateor.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1107.2">Est itidem tibi?</l></sp>
+<l part="M" n="1107b">Est itidem tibi?</l></sp>
 
 <sp><speaker>Sos.</speaker>
 <l part="I" n="1108">Est.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1108.1">Patrem fuisse Moschum tibi ais?</l></sp>
+<l part="M" n="1108a">Patrem fuisse Moschum tibi ais?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1108.2">Ita vero.</l></sp>
+<l part="M" n="1108b">Ita vero.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1108.3">Et mihi.</l></sp>
+<l part="M" n="1108c">Et mihi.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <lb ed="actscene" n="50"/><l part="I" n="1109">Esne tu Syracusanus?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1109.1">Certo.</l></sp>
+<l part="M" n="1109a">Certo.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1109.2">Quid tu?</l></sp>
+<l part="M" n="1109b">Quid tu?</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1109.3">Quippini?</l></sp>
+<l part="M" n="1109c">Quippini?</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l n="1110">Optime usque adhuc conveniunt signa. porro operam date.</l>
@@ -2750,7 +2752,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb ed="actscene" n="55"/><l part="I" n="1114">Iuppiter supreme, serva me.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1114.1">Quid clamas? quin taces?</l>
+<l part="M" n="1114a">Quid clamas? quin taces?</l>
 <l n="1115">quot eras annos gnatus, quom te pater a patria ávehit?</l></sp>
 
 <sp><speaker>Men.</speaker>
@@ -2758,39 +2760,39 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1117">neque patrém umquam postilla vidi.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1117.1">Quid? vos tum patri</l>
+<l part="M" n="1117a">Quid? vos tum patri</l>
 <l part="I" n="1118">filii quot eratis?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1118.1">Vt nunc maxime memini, duo.</l></sp>
+<l part="M" n="1118a">Vt nunc maxime memini, duo.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <lb ed="actscene" n="60"/><l part="I" n="1119">Vter eratis, tun an ille, maior?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1119.1">Aeque ambo pares.</l></sp>
+<l part="M" n="1119a">Aeque ambo pares.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l part="I" n="1120">Qui id potest?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1120.1">Gemini ambo eramus.</l></sp>
+<l part="M" n="1120a">Gemini ambo eramus.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1120.2">Di me servatum volunt.</l></sp>
+<l part="M" n="1120b">Di me servatum volunt.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <l part="I" n="1121">Si interpellas, ego tacebo potius.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1121.1">Taceo.</l></sp>
+<l part="M" n="1121a">Taceo.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1121.2">Dic mihi:</l>
+<l part="M" n="1121b">Dic mihi:</l>
 <l part="I" n="1122">uno nomine ambo eratis?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1122.1">Minime. nam mihi hoc erat,</l>
+<l part="M" n="1122a">Minime. nam mihi hoc erat,</l>
 <l n="1123">quod nunc est, Menaechmo: íllum tum vocabant Sosiclem.</l></sp>
 
 <sp><speaker>Sos.</speaker>
@@ -2805,19 +2807,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l n="1128">avos noster mutavit: quod tibi nomen est, fecit mihi.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<lb ed="actscene" n="70"/><l part="I" n="1129-1130">Credo ita esse factum ut dicis. sed mi hoc responde.</l></sp>
+<lb ed="actscene" n="70"/><l part="I" n="1129">Credo ita esse factum ut dicis. sed mi hoc responde.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1129-1130.1">Roga.</l></sp>
+<l part="M" n="1130">Roga.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l part="I" n="1131">Quid erat nomen nostrae matri?</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1131.1">Teuximarchae.</l></sp>
+<l part="M" n="1131a">Teuximarchae.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1131.2">Convenit.</l>
+<l part="M" n="1131b">Convenit.</l>
 <l n="1132">o salve, insperate multis annis post quem conspicor.</l></sp>
 
 <sp><speaker>Sos.</speaker>
@@ -2834,20 +2836,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1139">eam dedi huic.</l></sp>
 
 <sp><speaker>S.</speaker>
-<l part="M" n="1139.1">Hanc, dicis, frater, pallam, quam ego habeo?</l></sp>
+<l part="M" n="1139a">Hanc, dicis, frater, pallam, quam ego habeo?</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="1139.2"><add>Haec east.</add></l>
+<l part="M" n="1139b"><add>Haec east.</add></l>
 <lb ed="actscene" n="80"/><l part="I" n="1140">quo modo haec ad te pervenit?</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1140.1">Meretrix huc ad prandium</l>
+<l part="M" n="1140a">Meretrix huc ad prandium</l>
 <l n="1141">me abduxit, me sibi dedisse aiebat. prandi perbene,</l>
 <l n="1142">potavi atque accubui scortum, pallam et aurum hoc <add>abstuli</add>.</l></sp>
 
 <sp><speaker>Men.</speaker>
 <l n="1143">Gaudeo edepol, si quid propter me tibi evenit boni.</l>
-<l n="1144-1145">nam illa quom te ad se vocabat, memet esse credidit.</l></sp>
+<l n="1144">nam illa quom te ad se vocabat, memet esse credidit.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <lb ed="actscene" n="85"/><l n="1146">Numquid me morare quin ego liber, ut iusti, siem?</l></sp>
@@ -2859,41 +2861,41 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <l part="I" n="1148">Liber esto.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1148.1">Quom tu es liber, gaudeo, Messenio.</l></sp>
+<l part="M" n="1148a">Quom tu es liber, gaudeo, Messenio.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l n="1149-1150">Sed meliorest opus auspicio, ut liber perpetuo siem.</l></sp>
+<l n="1149">Sed meliorest opus auspicio, ut liber perpetuo siem.</l></sp>
 
 <sp><speaker>Sos.</speaker>
 <l n="1151">Quoniam haec evenerunt, frater, nostra éx sententia,</l>
 <lb ed="actscene" n="90"/><l part="I" n="1152">in patriam redeamus ambo.</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1152.1">Frater, faciam, ut tu voles.</l>
+<l part="M" n="1152a">Frater, faciam, ut tu voles.</l>
 <l n="1153">auctionem hic faciam et vendam quidquid est. nunc interim</l>
 <l part="I" n="1154">eamus intro, frater.</l></sp>
 
 <sp><speaker>Sos.</speaker>
-<l part="M" n="1154.1">Fiat.</l></sp>
+<l part="M" n="1154a">Fiat.</l></sp>
 
 <sp><speaker>Mess.</speaker>
-<l part="M" n="1154.2">Scitin quid ego vos rogo?</l></sp>
+<l part="M" n="1154b">Scitin quid ego vos rogo?</l></sp>
 
 <sp><speaker>M.</speaker>
 <l part="I" n="1155">Quid?</l></sp>
 
 <sp><speaker>Mes.</speaker>
-<l part="M" n="1155.1">Praeconium mi ut detis.</l></sp>
+<l part="M" n="1155a">Praeconium mi ut detis.</l></sp>
 
 <sp><speaker>M.</speaker>
-<l part="M" n="1155.2">Dabitur.</l></sp>
+<l part="M" n="1155b">Dabitur.</l></sp>
 
 <sp><speaker>Mes.</speaker>
-<l part="M" n="1155.3">Ergo nunciam</l>
+<l part="M" n="1155c">Ergo nunciam</l>
 <l part="I" n="1156">vis conclamari auctionem fore?</l></sp>
 
 <sp><speaker>Men.</speaker>
-<l part="M" n="1156.1">Equidem die septimi.</l></sp>
+<l part="M" n="1156a">Equidem die septimi.</l></sp>
 
 <sp><speaker>Mess.</speaker>
 <lb ed="actscene" n="95"/><l n="1157">Auctio fiet Menaechmi mane sane septimi.</l>
